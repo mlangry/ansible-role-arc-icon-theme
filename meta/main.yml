@@ -1,0 +1,17 @@
+galaxy_info:
+  author: mlangry
+  description: An ansible role to install the arc-icon-theme.
+  license:
+    - MIT
+
+  min_ansible_version: 1.2
+
+  platforms:
+    - name: Ubuntu
+
+  galaxy_tags:
+    - desktop
+    - theme
+    - icons
+
+dependencies: []
